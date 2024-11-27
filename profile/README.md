@@ -5,10 +5,10 @@
         <h3><a href="https://damangames.one/register/" target="_blank">Daman Game Register</a></h3>
         <h3><a href="https://damangames.one/download/" target="_blank">Daman App Download</a></h3>
     </section>
-<p>Welcome to the Daman Games! Daman Games is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Games, you can play, win, and even earn real money.</p>
+<p>Welcome to the Daman App! Daman App is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Games, you can play, win, and even earn real money.</p>
         
 <section>
-        <h2>Daman Games Invitation Code – <strong>382757617365</strong></h2>
+        <h2>Daman App Invitation Code – <strong>382757617365</strong></h2>
         <p><em>Get a Free ₹600 Bonus when you sign up with this code!</em></p>
     </section>
 
@@ -39,7 +39,7 @@
     </section>
 
 <section>
-        <h2>How to Add Money to Daman Games App?</h2>
+        <h2>How to Add Money to Daman App?</h2>
         <ol>
             <li>Go to the wallet section and select "Recharge."</li>
             <li>Choose your payment method (UPI, Bank, or USDT) and enter the deposit amount.</li>
@@ -80,7 +80,7 @@
     </section>
 
  <section>
-        <h2>Types of Games in Daman Games App</h2>
+        <h2>Types of Games in Daman App</h2>
         <ul>
             <li>Win Go</li>
             <li>Trx Hash</li>
