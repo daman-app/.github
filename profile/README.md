@@ -5,6 +5,7 @@
         <h3><a href="https://damangames.one/register/" target="_blank">Daman Game Register</a></h3>
         <h3><a href="https://damangames.one/download/" target="_blank">Daman App Download</a></h3>
     </section>
+    <p>Updated 31 Seconds Ago</p>
 <p>Welcome to the Daman App! Daman App is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Games, you can play, win, and even earn real money.</p>
         
 <section>
